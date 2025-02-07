@@ -13,4 +13,3 @@ entertainment industries, education, and search engines, there has also been a r
 privacy. This has been a significant discussion in politics when looking into data collection and 
 surveillance. In the U.S. especially, we are seeing this with misinformation and for there to be more 
 regulation to mediate the situation after the 2024 Presidential Election.
-
